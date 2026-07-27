@@ -1,49 +1,88 @@
-# 🛒 Java Market System
+# ⚔️ Java RPG
 
-Projeto desenvolvido durante meus estudos no curso Técnico em Desenvolvimento de Sistemas.
+Um RPG em modo texto desenvolvido em **Java** com o objetivo de praticar Programação Orientada a Objetos (POO) e evoluir continuamente através da implementação de novas funcionalidades.
 
-O objetivo foi praticar os principais conceitos de Java e Programação Orientada a Objetos através de um sistema de gerenciamento de produtos executado no terminal.
+Este projeto faz parte do meu aprendizado em Java e será atualizado conforme eu aprender novos conceitos.
 
-## 🚀 Funcionalidades
+---
 
-- Cadastro de produtos
-- Listagem de produtos
-- Busca por código
-- Atualização de estoque
-- Cálculo do valor total do estoque
-- Validação de códigos duplicados
-- Validação de entradas inválidas
+## 🎮 Funcionalidades
 
-## 🛠️ Tecnologias
+* ✅ Criação do personagem
+* ✅ Sistema de batalhas
+* ✅ Encontro aleatório de inimigos
+* ✅ Sistema de ataque
+* ✅ Sistema de fuga
+* ✅ Sistema de experiência (XP)
+* ✅ Sistema de moedas
+* ✅ Sistema de Level Up
+* ✅ Aumento de atributos ao subir de nível
 
-- Java
-- IntelliJ IDEA
+---
+
+## 🚧 Próximas funcionalidades
+
+* ⏳ Múltiplos inimigos
+* ⏳ Sistema de defesa
+* ⏳ Inventário
+* ⏳ Itens consumíveis
+* ⏳ Loja
+* ⏳ Equipamentos
+* ⏳ Chefes (Bosses)
+* ⏳ Mapa
+* ⏳ Missões
+* ⏳ Sistema de salvamento
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+* Java
+* IntelliJ IDEA
+* Git
+* GitHub
+
+---
 
 ## 📚 Conceitos praticados
 
-- Programação Orientada a Objetos (POO)
-- Classes e Objetos
-- Construtores
-- Encapsulamento
-- Getters e Setters
-- Vetores
-- Estruturas condicionais (`if` e `switch`)
-- Estruturas de repetição (`for` e `while`)
-- Validação de dados
+* Programação Orientada a Objetos (POO)
+* Classes e Objetos
+* Encapsulamento
+* Construtores
+* Getters e Setters
+* Estruturas Condicionais
+* Estruturas de Repetição
+* Random
+* Organização de código
+* Lógica de programação
+
+---
 
 ## ▶️ Como executar
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/Couto-10/Java-market-system.git
-   ```
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/Couto-10/Java-RPG.git
+```
 
 2. Abra o projeto no IntelliJ IDEA.
 
 3. Execute a classe `Main`.
 
-## 📌 Autor
+---
 
-Marcelo Resende Reis
+## 📈 Objetivo
+
+Meu objetivo é transformar este projeto em um RPG cada vez mais completo, aplicando os conhecimentos adquiridos durante meus estudos em Java e Programação Orientada a Objetos.
+
+Cada atualização representa uma nova etapa do meu aprendizado.
+
+---
+
+## 👨‍💻 Autor
+
+**Marcelo Resende Reis**
 
 GitHub: https://github.com/Couto-10
