@@ -8,6 +8,7 @@ public class Jogador {
     private int nivel;
     private int experiencia;
     private int moedas;
+    private int quantidadePocoes;
 
     public Jogador(String nome){
         this.nome = nome;
@@ -18,6 +19,7 @@ public class Jogador {
         this.nivel = 1;
         this.experiencia = 0;
         this.moedas = 20;
+        this.quantidadePocoes = 0;
     }
 
     public String getNome(){
@@ -44,6 +46,11 @@ public class Jogador {
     public int getMoedas(){
         return moedas;
     }
+
+    public int getQuantidadePocoes() {
+        return quantidadePocoes;
+    }
+
     public void setVida(int vida){
         this.vida = vida;
     }
@@ -63,5 +70,9 @@ public class Jogador {
 
     public void setVidaMaxima(int vidaMaxima) {
         this.vidaMaxima = vidaMaxima;
+    }
+
+    public void setQuantidadePocoes(int quantidadePocoes) {
+        this.quantidadePocoes = quantidadePocoes;
     }
 }
