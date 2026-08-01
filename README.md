@@ -22,11 +22,11 @@ Este projeto faz parte do meu aprendizado em Java e será atualizado conforme eu
 
 ## 🚧 Próximas funcionalidades
 
-* ⏳ Múltiplos inimigos
+* ⏳ Múltiplos inimigos ✅ (Feito na segunda versão)
 * ⏳ Sistema de defesa
 * ⏳ Inventário
-* ⏳ Itens consumíveis
-* ⏳ Loja
+* ⏳ Itens consumíveis ✅ (Feito na segunda versão)
+* ⏳ Loja ✅ (Feito na segunda versão)
 * ⏳ Equipamentos
 * ⏳ Chefes (Bosses)
 * ⏳ Mapa
